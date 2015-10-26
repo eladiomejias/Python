@@ -35,6 +35,7 @@ class Arbol:
                 self.inOrden(arbol.izquierda)
             print(arbol.dato)
 
+
             if arbol.derecha is not None:
                 self.inOrden(arbol.derecha)
 
