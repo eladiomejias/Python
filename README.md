@@ -1,6 +1,6 @@
 # Python 
 
-## Here are some python codes made with Python 2.7 / Python 3.2 :snake:
+## Here are some Python codes made with Python 2.7 / Python 3.2 :snake:
 
 ---
 
