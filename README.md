@@ -1,6 +1,6 @@
 # Python 
 
-## In this repo are some Python codes made with Python 2.7 / Python 3.2 :snake:
+## In this repo are some Python codes made with Python 2.7 / Python 3.2
 
 ---
 
